@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" xmlns:turbo="http://turbo.yandex.ru" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[Papagrek.com - новости]]></title>
+    <link>https://www.papagrek.com/posts</link>
+    <description><![CDATA[Papagrek.com - новости]]></description>
+    <pubDate>Fri, 03 Apr 2020 08:04:39 +0300</pubDate>
+    <generator>Zend_Feed</generator>
+    <language>ru</language>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <atom:link href="https://www.papagrek.com/posts/rss" rel="self" type="application/rss+xml"/>
+    <item turbo="true">
+      <title><![CDATA[Скидка оптовым покупателям 25%]]></title>
+      <link>https://www.papagrek.com/posts</link>
+      <guid>https://www.papagrek.com/posts</guid>
+      <description><![CDATA[Всем клиентам при заказе товара от 2500 рублей предоставляется скидка 25% по промокоду grek25 на весь товар.
+При этом, если заказ со скидкой составит более 1500 рублей - доставка будет&nbsp;БЕСПЛАТНОЙ по Саратову и Энгельсу.
+* Акция действу]]></description>
+      <pubDate>Sat, 14 Dec 2019 11:07:15 +0300</pubDate>
+      <turbo:content><![CDATA[<header><h1>Скидка оптовым покупателям 25%</h1></header><p>Всем клиентам при заказе товара от 2500 рублей предоставляется скидка 25% по промокоду grek25 на весь товар.</p>
+<p>При этом, если заказ со скидкой составит более 1500 рублей - доставка будет&nbsp;БЕСПЛАТНОЙ по Саратову и Энгельсу.</p>
+<p>* Акция действует до 31 декабря 2019 года.</p>]]></turbo:content>
+    </item>
+    <item turbo="true">
+      <title><![CDATA[Чёрная пятница - #Blackgrek]]></title>
+      <link>https://www.papagrek.com/posts/blackgrek</link>
+      <guid>https://www.papagrek.com/posts/blackgrek</guid>
+      <description><![CDATA[C 29.11 до 04.12 у нас действует акция 1+1=3, а именно при покупке двух ремешков к Apple Watch вы получаете третий БЕСПЛАТНО*.
+
+*количество товара ограничено, только для подписчиков в социальной сети&nbsp;instagram&nbsp;и&nbsp;odnoklassniki]]></description>
+      <pubDate>Fri, 29 Nov 2019 10:01:21 +0300</pubDate>
+      <turbo:content><![CDATA[<header><h1>Чёрная пятница - #Blackgrek</h1></header><p>C 29.11 до 04.12 у нас действует акция 1+1=3, а именно при покупке двух ремешков к Apple Watch вы получаете третий БЕСПЛАТНО*.</p>
+<p><br /></p>
+<p>*количество товара ограничено, только для подписчиков в социальной сети&nbsp;<a target="_blank" href="https://instagram.com/papagrek_official" title="Перейти в соц. сеть instagram.com" rel="noopener noreferrer">instagram</a>&nbsp;и&nbsp;<a target="_blank" href="http://odnoklassniki.ru/profile/572017843207" title="Перейти на сайт Одноклассники.ру" rel="noopener noreferrer">odnoklassniki</a></p>]]></turbo:content>
+    </item>
+    <item turbo="true">
+      <title><![CDATA[Акция на тканевые ремешки]]></title>
+      <link>https://www.papagrek.com/posts/aktsiia-na-tkanevye-remeshki</link>
+      <guid>https://www.papagrek.com/posts/aktsiia-na-tkanevye-remeshki</guid>
+      <description><![CDATA[С 14.11 по 25.11 в нашем онлайн магазине Papagrek.com стартует акция "тканевые ремешки от 149 рублей". Торопитесь приобрести, количество товара по акции ограничено. Предложение актуально для подписчиков в instagram&nbsp;@papagrek_official]]></description>
+      <pubDate>Thu, 14 Nov 2019 12:41:08 +0300</pubDate>
+      <turbo:content><![CDATA[<header><h1>Акция на тканевые ремешки</h1></header><p>С 14.11 по 25.11 в нашем онлайн магазине Papagrek.com стартует акция "тканевые ремешки от 149 рублей". Торопитесь приобрести, количество товара по акции ограничено. Предложение актуально для подписчиков в instagram&nbsp;<a target="_blank" href="https://www.instagram.com/papagrek_official/" title="наш аккаунт в Instagram" rel="noopener noreferrer">@papagrek_official</a></p>]]></turbo:content>
+    </item>
+    <item turbo="true">
+      <title><![CDATA[25 ноября - новое поступление товара]]></title>
+      <link>https://www.papagrek.com/posts/noviitovar</link>
+      <guid>https://www.papagrek.com/posts/noviitovar</guid>
+      <description><![CDATA[25 ноября у нас планируется приход новых коллекций ремешков, подписывайтесь на наш инстаграм канал или в соцсеть одноклассники и Вы будете в курсе всех наших активностей и акций]]></description>
+      <pubDate>Sun, 03 Nov 2019 12:39:41 +0300</pubDate>
+      <turbo:content><![CDATA[<header><h1>25 ноября - новое поступление товара</h1></header><p>25 ноября у нас планируется приход новых коллекций ремешков, подписывайтесь на наш инстаграм канал или в соцсеть одноклассники и Вы будете в курсе всех наших активностей и акций</p>]]></turbo:content>
+    </item>
+    <item turbo="true">
+      <title><![CDATA[21 октября - старт продаж нашего онлайн магазина]]></title>
+      <link>https://www.papagrek.com/posts/4600330</link>
+      <guid>https://www.papagrek.com/posts/4600330</guid>
+      <description><![CDATA[21&nbsp;октября будет дан старт продаж нашего товара в&nbsp;интернет магазине PAPAGREK, товар весь в наличии. Забрать Вы его сможете в центре Саратова, район Крытого рынка, адрес: г. Саратов, ул. Чапаева д. 59, ТД Центральный 1 этаж]]></description>
+      <pubDate>Mon, 21 Oct 2019 12:41:32 +0300</pubDate>
+      <turbo:content><![CDATA[<header><h1>21 октября - старт продаж нашего онлайн магазина</h1></header><p>21&nbsp;октября будет дан старт продаж нашего товара в&nbsp;интернет магазине PAPAGREK, товар весь в наличии. Забрать Вы его сможете в центре Саратова, район Крытого рынка, адрес: г. Саратов, ул. Чапаева д. 59, ТД Центральный 1 этаж</p>]]></turbo:content>
+    </item>
+  </channel>
+</rss>
